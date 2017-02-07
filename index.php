@@ -9,7 +9,9 @@
 	</head>
     <body>
         <main class="main">
-            <p>hello, world.</p>
+						<div id="title">
+								<h2>The Netherlands Second - The best game ever.</h2>
+						</div>
         </main>
         <footer class="footer">
 
