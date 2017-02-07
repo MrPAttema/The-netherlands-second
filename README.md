@@ -1,4 +1,4 @@
-# The-netherlands-second
+# The Netherlands Second
 We have the best game ever, it's fantastic.
 
 Voordat het spel begind is trump aan de macht.
