@@ -38,10 +38,13 @@ main {
   background: #e3e3e3;
   display: block;
 }
-footer .footer-box {
-  color: white;
+footer {
+  display: block;
   background-color: black;
   height: 75px;
   line-height: 75px;
   text-align: center;
+}
+footer .footer-box {
+  color: white;
 }
