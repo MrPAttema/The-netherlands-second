@@ -166,8 +166,11 @@ main {
 footer {
   display: block;
   background-color: black;
-  height: 75px;
-  line-height: 75px;
+  height: 50px;
+  width: 100%;
+  position: fixed;
+  bottom: 0;
+  line-height: 50px;
   text-align: center;
 }
 footer .footer-box {
