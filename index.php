@@ -14,6 +14,9 @@
         <h1 class="title"><span>The Netherlands Second</span> - <span>The best game ever.</span></h1>
       </header>
       <main class="main">
+        <div class="grid-box">
+
+        </div>
       </main>
       <footer class="footer">
         <div class="footer-box">
