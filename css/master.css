@@ -1,4 +1,8 @@
 /******************************** Index.php ********************************/
+body{
+  background-color: #e2e2e2;
+}
+
 div#title {
   text-align: center;
   font-family: 'Handlee', cursive;
