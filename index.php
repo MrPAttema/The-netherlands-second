@@ -6,17 +6,18 @@
 		<meta name="robots" content="index, follow" />
 		<title>The Netherlands Second</title>
 		<link href="https://fonts.googleapis.com/css?family=Handlee" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Fredoka+One" rel="stylesheet">
 		<link rel="stylesheet" href="css/master.css">
 	</head>
     <body>
       <header>
-        <h1 class="title">The Netherlands Second - The best game ever.</h1>
+        <h1 class="title"><span>The Netherlands Second</span> - <span>The best game ever.</span></h1>
       </header>
       <main class="main">
       </main>
       <footer class="footer">
         <div class="footer-box">
-          <p>Build with <3 by ower great, just fantasic leader Mr. President Trump</p>
+          <p>Build with <3 by our great, just fantasic leader Mr. President Trump</p>
         </div>
       </footer>
       <script src="js/master.js"></script>

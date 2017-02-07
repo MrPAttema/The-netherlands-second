@@ -4,8 +4,26 @@ body {
   background-color: #1a1a2a;
   -webkit-background-image: radial-gradient(circle, transparent 0%, #0a0b13 100%), url(http://d2xgoeeq7a4bfy.cloudfront.net/v1/noise-160.png);
   background-image: radial-gradient(circle, transparent 0%, #0a0b13 75%), url(http://d2xgoeeq7a4bfy.cloudfront.net/v1/noise-160.png);
+  font-family: 'Handlee', cursive;
+  width: 100%;
+}
+header {
+  display: block;
+  width: 100%;
+  text-align: center;
 }
 .title {
   text-align: center;
-  font-family: 'Handlee', cursive;
+  font-family: 'Fredoka One', cursive;
+  color: white;
+  font-size: 3rem;
+}
+.title span:first-child {
+  color: #c62121;
+}
+.title span:last-child {
+  color: #2161c6;
+}
+footer .footer-box {
+  color: white;
 }
