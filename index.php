@@ -10,15 +10,14 @@
 	</head>
     <body>
       <header>
-        <h1 class="title">The Netherlands Second - Ze best game ever.</h1>
+        <h1 class="title">The Netherlands Second - The best game ever.</h1>
       </header>
       <main class="main">
       </main>
       <footer class="footer">
         <div class="footer-box">
-
+          <p>Build with <3 by ower great, just fantasic leader Mr. President Trump</p>
         </div>
-        <p>Build with <3 by ower great, just fantasic leader Mr. President Trump</p>
       </footer>
       <script src="js/master.js"></script>
   </body>
