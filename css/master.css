@@ -173,7 +173,10 @@ p#dobbel {
 }
 button#dobbelen {
   margin: 50px auto;
-  padding: 15px;
+  padding: 2px 30px;
+  font-family: inherit;
+  font-size: 25px;
+  border-style: solid;
   background: wheat;
   border-radius: 5px;
 }
