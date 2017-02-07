@@ -1,5 +1,13 @@
 /******************************** Index.php ********************************/
+<<<<<<< HEAD
 .title {
+=======
+body{
+  background-color: #e2e2e2;
+}
+
+div#title {
+>>>>>>> bf7304cb8451b8820427a38824156ade8f4f0a32
   text-align: center;
   font-family: 'Handlee', cursive;
 }
