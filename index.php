@@ -15,7 +15,55 @@
       </header>
       <main class="main">
         <div class="grid-box">
-
+          <div class="grid-row">
+            <span class="grid-item" id="1"></span>
+            <span class="grid-item" id="2"></span>
+            <span class="grid-item" id="3"></span>
+            <span class="grid-item" id="4"></span>
+            <span class="grid-item" id="5"></span>
+            <span class="grid-item" id="6"></span>
+            <span class="grid-item" id="7"></span>
+            <span class="grid-item" id="8"></span>
+            <span class="grid-item" id="9"></span>
+          </div>
+          <div class="grid-row">
+            <span class="grid-item" id="10"></span>
+            <span class="grid-item" id="11"></span>
+            <span class="grid-item" id="12"></span>
+            <span class="grid-item" id="13"></span>
+            <span class="grid-item" id="14"></span>
+            <span class="grid-item" id="15"></span>
+            <span class="grid-item" id="16"></span>
+            <span class="grid-item" id="17"></span>
+            <span class="grid-item" id="18"></span>
+          </div>
+          <div class="grid-row">
+            <span class="grid-item" id="19"></span>
+            <span class="grid-item" id="20"></span>
+            <span class="grid-item" id="31"></span>
+            <span class="grid-item" id="32"></span>
+            <span class="grid-item" id="33"></span>
+            <span class="grid-item" id="34"></span>
+            <span class="grid-item" id="35"></span>
+            <span class="grid-item" id="36"></span>
+          </div>
+          <div class="grid-row">
+            <span class="grid-item" id="37"></span>
+            <span class="grid-item" id="38"></span>
+            <span class="grid-item" id="39"></span>
+            <span class="grid-item" id="40"></span>
+            <span class="grid-item" id="41"></span>
+            <span class="grid-item" id="42"></span>
+            <span class="grid-item" id="43"></span>
+            <span class="grid-item" id="44"></span>
+          </div>
+          <div class="grid-row">
+            <span class="grid-item" id="45"></span>
+            <span class="grid-item" id="46"></span>
+            <span class="grid-item" id="47"></span>
+            <span class="grid-item" id="48"></span>
+            <span class="grid-item" id="49"></span>
+          </div>
         </div>
       </main>
       <footer class="footer">
