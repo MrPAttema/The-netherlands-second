@@ -5,12 +5,13 @@
 		<meta http-equiv="content-type" content="text/html; charset=utf-8" />
 		<meta name="robots" content="index, follow" />
 		<title>The Netherlands Second</title>
+		<link href="https://fonts.googleapis.com/css?family=Handlee" rel="stylesheet">
 		<link rel="stylesheet" href="css/master.css">
 	</head>
     <body>
         <main class="main">
 						<div id="title">
-								<h2>The Netherlands Second - The best game ever.</h2>
+								<h1>The Netherlands Second - Ze best game ever.</h1>
 						</div>
         </main>
         <footer class="footer">
