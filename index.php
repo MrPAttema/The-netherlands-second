@@ -8,6 +8,9 @@
 		<link href="https://fonts.googleapis.com/css?family=Handlee" rel="stylesheet">
     <link href="https://fonts.googleapis.com/css?family=Fredoka+One" rel="stylesheet">
 		<link rel="stylesheet" href="css/master.css">
+
+		<script src="js/dobbel.js"></script>
+
 	</head>
     <body>
       <header>
@@ -17,10 +20,14 @@
         <div class="grid-box">
 
         </div>
+				<div class="dobbelsteen">
+					<button onclick="MijnDobbel()" id="dobbelen">Ik wil dobbelen</button>
+				</div>
+				<p id="dobbel"></p>
       </main>
       <footer class="footer">
         <div class="footer-box">
-          <p>Build with <3 by our great, just fantasic leader Mr. President Trump</p>
+          <p>Build with <img src="img/love.png" height="15" width="15" /> by our great, just fantasic leader Mr. President Trump</p>
         </div>
       </footer>
       <script src="js/master.js"></script>
