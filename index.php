@@ -9,14 +9,17 @@
 		<link rel="stylesheet" href="css/master.css">
 	</head>
     <body>
-        <main class="main">
-						<div id="title">
-								<h1>The Netherlands Second - Ze best game ever.</h1>
-						</div>
-        </main>
-        <footer class="footer">
+      <header>
+        <h1 class="title">The Netherlands Second - Ze best game ever.</h1>
+      </header>
+      <main class="main">
+      </main>
+      <footer class="footer">
+        <div class="footer-box">
 
-        </footer>
-        <script src="js/master.js"></script>
+        </div>
+        <p>Build with <3 by ower great, just fantasic leader Mr. President Trump</p>
+      </footer>
+      <script src="js/master.js"></script>
   </body>
 </html>
